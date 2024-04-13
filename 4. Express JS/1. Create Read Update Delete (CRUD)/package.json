@@ -1,0 +1,15 @@
+{
+  "name": "04.-express-js-(crud)",
+  "version": "1.0.0",
+  "description": "`Why use it`",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
