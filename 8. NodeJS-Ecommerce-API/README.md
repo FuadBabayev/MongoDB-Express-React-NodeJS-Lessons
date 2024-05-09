@@ -15,4 +15,4 @@
 
 ### Main API: https://nodejs-ecommerce-api-usoh.onrender.com/api/v1/products
 
-To make HTML documentation use, Write in Command Prompt: "C:\Users\user\Downloads\windows_amd64.exe" build -i ecommerce-api.json -o index.html 
+To make HTML documentation use, write in Command Prompt: "C:\Users\user\Downloads\windows_amd64.exe" build -i ecommerce-api.json -o index.html 
