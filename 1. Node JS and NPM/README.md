@@ -4,7 +4,7 @@
 `JavaScript` ucun Browser-in **console.log()**-u `Node JS` ucun Terminal-in **node**-u.
 
 # Node.js REPL (Read Eval Print Loop)  in Node.js App
-`node   ` Take you to REPL. Start you coding. You can write whatever you want same with JavaScript  
+`node   ` Take you to REPL. Start you coding. You can write whatever you want same with JavaScript   
 `.break ` Sometimes you get stuck, this gets you out
 `.clear ` Alias for .break
 `.editor` Enter editor mode
